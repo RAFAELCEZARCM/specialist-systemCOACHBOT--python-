@@ -1,4 +1,11 @@
-# specialist-systemCOACHBOT--python
-Sistema especialista voltado para amantes do futebol com o intuito de entreter utilizando o python e a tecnlogia para este fim.O CoachBot é um sistema especialista inovador dedicado ao universo do futebol. Este assistente inteligente fornece sugestões e respostas perspicazes para as consultas dos usuários, abrangendo diversos tópicos, desde clubes e treinadores até formações e jogadores, além de proporcionar um ambiente de adivinhação e divertimento sobre o tema. Sua abordagem abrangente oferece uma experiência personalizada, informativa e educativa para entusiastas do esporte, tornando-se uma ferramenta indispensável para os amantes do futebol. 
-![image](https://github.com/RAFAELCEZARCM/specialist-systemCOACHBOT--python-/assets/133013711/fca802c6-9dca-4af6-a5ff-60175f332c97)
+# CoachBot - Sistema Especialista para Amantes do Futebol
+
+O CoachBot é um projeto open-source inovador, dedicado aos apaixonados por futebol, utilizando Python e tecnologia para proporcionar uma experiência envolvente e informativa. Este sistema especialista atua como um assistente inteligente, oferecendo sugestões perspicazes e respostas relevantes para uma variedade de consultas relacionadas ao universo do futebol.
+
+## Funcionalidades Principais
+
+- **Informações Detalhadas:** Obtenha informações sobre clubes, treinadores, formações, jogadores e muito mais.
+- **Ambiente de Adivinhação:** Desfrute de um jogo interativo e divertido, testando seus conhecimentos sobre futebol.
+- **Consultas Personalizadas:** Faça perguntas específicas sobre o esporte e receba respostas contextualizadas.
+- **Atualizações Contínuas:** Mantenha-se informado com atualizações regulares e acréscimo de novos recursos.
 
